@@ -1,1 +1,0 @@
-risky_function error: ZeroDivisionError. Inputs: (1, 0)
