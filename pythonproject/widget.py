@@ -1,6 +1,6 @@
 from datetime import datetime
 from typing import Optional
-from pythonproject.masks import mask_card, mask_account  # Добавляем импорт mask_account
+from pythonproject.masks import mask_card, mask_account  #Проверка работы git
 
 def mask_account_card(data: str) -> str:
     """
